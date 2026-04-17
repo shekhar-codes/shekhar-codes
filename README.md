@@ -62,19 +62,10 @@
 <h2 align="left">🚀 Featured Projects</h2>
 
 <p align="left">
-⭐ <b>AI Personal Assistant</b> – Autonomous assistant for productivity & task execution<br>
-⭐ <b>Health AI Platform</b> – AI-powered health insights and recommendations<br>
-⭐ <b>Portfolio Website</b> – Showcasing projects, skills, and achievements<br>
-⭐ <b>AI Agent System</b> – Self-thinking agent capable of planning & executing tasks<br>
-</p>
-
----
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+<!-- 🔥 Add your best AI / Web / ML projects here -->
+⭐ Project Name – Short description<br>
+⭐ Project Name – Short description<br>
+⭐ Project Name – Short description<br>
 </p>
 
 ---
