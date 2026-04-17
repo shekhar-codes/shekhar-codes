@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left"></h2>
 
 <p align="left">
 <!-- 🔥 Add your best AI / Web / ML projects here -->
