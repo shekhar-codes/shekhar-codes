@@ -21,10 +21,8 @@
 <h2 align="left">⚡ What I’m Working On</h2>
 
 <p align="left">
-🔹 Building AI Agents (AutoGPT-style systems)<br>
-🔹 Developing AI-powered web applications<br>
+🔹 Building AI Agents <br>
 🔹 Exploring LangChain, LLM orchestration, and automation workflows<br>
-🔹 Creating real-world AI products (not just demos)<br>
 </p>
 
 ---
@@ -63,9 +61,7 @@
 
 <p align="left">
 <!-- 🔥 Add your best AI / Web / ML projects here -->
-⭐ Project Name – Short description<br>
-⭐ Project Name – Short description<br>
-⭐ Project Name – Short description<br>
+
 </p>
 
 ---
@@ -93,5 +89,5 @@ I aim to become a leading <b>AI Engineer / AGI Builder</b> by developing intelli
 ---
 
 <p align="center">
-🔥 Building the future with AI • One Agent at a Time 🔥
+🔥 Building the future with AI 🔥
 </p>
