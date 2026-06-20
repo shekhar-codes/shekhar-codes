@@ -1,93 +1,109 @@
-<h1 align="center">Hey 👋 I'm Shekhar Singh</h1>
+# Hi, I'm Shekhar Singh 👋
 
-<p align="center">
-🚀 Agentic AI Engineer | Building Autonomous Systems <br>
-🧠 AI/ML • LLMs • Automation • Intelligent Systems
-</p>
+**AI Engineering Enthusiast | Python Developer | Building towards Agentic AI**
 
----
-
-<h2 align="left">🧠 About Me</h2>
-
-<p align="left">
-✨ I design and build <b>Agentic AI Systems</b> that can think, plan, and act autonomously.<br>
-🚀 Passionate about creating intelligent solutions using AI, ML, and automation.<br>
-📚 Currently exploring <b>LLMs, Multi-Agent Systems, and AI-powered applications</b>.<br>
-🎯 Mission: Build scalable AI systems that solve real-world problems and create impact.<br>
-</p>
+I'm a self-driven developer from Agra, UP, on a structured path to become an **Agentic AI Engineer**. I started from zero and have built my way up through Python, REST APIs, and Generative AI — with a long-term goal of building my own LLM from scratch.
 
 ---
 
-<h2 align="left">⚡ What I’m Working On</h2>
+## 🚀 What I'm Working On
 
-<p align="left">
-🔹 Building AI Agents <br>
-🔹 Exploring LangChain, LLM orchestration, and automation workflows<br>
-</p>
-
----
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
+- 🔧 **Phase 2 (APIs):** Designing production-grade API clients with session management, retry logic, and secure key handling
+- 🤖 **AI Track:** Studying LLMs, Hugging Face Transformers, and Google Cloud Generative AI Studio
+- 📚 **Preparing for:** Flipkart GRiD 8.0 — AI Engineering Track
 
 ---
 
-<h2 align="left">🤖 AI / Agentic Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="left">
-🧠 LLMs (OpenAI, HuggingFace)<br>
-🔗 LangChain / LLM Orchestration<br>
-⚙️ Automation & AI Workflows<br>
-🤖 Multi-Agent Systems<br>
-📊 Data Science & Machine Learning<br>
-</p>
+**Languages:** Python · JavaScript · HTML · CSS
 
----
+**AI / GenAI:** Large Language Models · Generative AI · Hugging Face Transformers · Prompt Engineering · Google Cloud AI Studio
 
-<h2 align="left"></h2>
+**APIs & Backend:** REST APIs · HTTP Methods · Session Management · Exponential Backoff · Rate Limit Handling
 
-<p align="left">
-<!-- 🔥 Add your best AI / Web / ML projects here -->
+**Cloud:** Google Cloud Platform · AWS (EC2, Placement Groups)
 
-</p>
+**Tools:** Git · GitHub · VS Code · pip · Virtual Environments · python-dotenv
+
+**Python Libraries:** requests · json · os · datetime · math · random · dotenv
 
 ---
 
-<h2 align="left">🌍 Vision</h2>
+## 📂 Featured Projects
 
-<p align="left">
-I aim to become a leading <b>AI Engineer / AGI Builder</b> by developing intelligent systems that can automate complex tasks and enhance human capabilities.
-</p>
+### 🔌 [IntelliAPI Client](https://github.com/shekhar-codes)
+> Production-grade REST API Integration Engine
 
----
+An industry-standard API client built in Python with:
+- Session persistence for efficient connection reuse
+- Automatic retry logic with exponential backoff
+- Rate limit detection and timeout handling
+- Secure API key management via `.env` files
+- Clean modular architecture mirroring real-world backend systems
 
-<h2 align="left">📬 Contact</h2>
-
-<div align="left">
-  <a href="mailto:shekharxsingh57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/shekhar-singh-a5b43b377" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-</div>
+**Tech:** Python · requests · python-dotenv · JSON · GitHub
 
 ---
 
-<p align="center">
-🔥 Building the future with AI 🔥
-</p>
+### ✅ [Smart Task Management System](https://github.com/shekhar-codes/To-Do-List)
+> CLI Application with persistent storage
+
+A fully functional task manager featuring:
+- Persistent JSON-based data storage
+- Menu-driven CLI interface with clean UX
+- Error handling with try/except
+- Modular function design and OOP principles
+- Professional README with installation guide and sample output
+
+**Tech:** Python · JSON · File I/O · GitHub
+
+---
+
+## 🏆 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| Introduction to Large Language Models | Google Cloud x Simplilearn | 2025 |
+| Introduction to Generative AI Studio | Google Cloud x Simplilearn | 2025 |
+| Hugging Face Projects | Simplilearn SkillUp | 2025 |
+| Understanding Placement Groups (AWS) | AWS x Simplilearn | 2025 |
+| Python Programming | Codec Technology | 2024-25 |
+| Web Development Fundamentals | Codec Technology | 2024-25 |
+
+---
+
+## 💼 Experience
+
+**Python Developer Intern — Codec Technology** *(1 Month)*
+- Developed Python automation scripts and backend utilities
+- Worked on real-world tasks involving data handling and modular scripting
+- Received Letter of Recommendation for performance
+
+---
+
+## 🏅 Achievements
+
+- 🎯 **ICAT Coding Assessment** — Conducted by iStudios Tech | AIR: **2184**
+- 🤖 Currently building toward **Flipkart GRiD 8.0 — AI Engineering Track**
+- 📈 Self-taught Python → APIs → GenAI in under 6 months through structured daily learning
+
+---
+
+## 📊 GitHub Stats
+
+![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekhar-codes&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-codes&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shekhar%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shekhar-singh-a5b43b377)
+[![GitHub](https://img.shields.io/badge/GitHub-shekhar--codes-black?style=flat&logo=github)](https://github.com/shekhar-codes)
+[![Email](https://img.shields.io/badge/Email-shekharxsingh57@gmail.com-red?style=flat&logo=gmail)](mailto:shekharxsingh57@gmail.com)
+
+---
+
+*"Started from zero. Building toward building my own LLM."* 🚀
