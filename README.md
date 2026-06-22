@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-shekharxsingh57@gmail.com-EA4335?style=flat&logo=gmail"/>
   </a>
   <img src="https://img.shields.io/badge/Track-AI%20Engineering-6F42C1?style=flat"/>
-  <img src="https://img.shields.io/badge/Flipkart%20GRiD-8.0%20Applicant-F7C900?style=flat"/>
+  
 </p>
 
 ---
