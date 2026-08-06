@@ -1,134 +1,251 @@
-<h1 align="center">Hi, I'm Shekhar Singh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineering Undergraduate · Python Developer · Building Agentic AI Systems</b><br/>
-  Eshan College of Engineering, CSE · Batch 2026–2029 · Agra, UP
-</p>
+```
+ ███████╗██╗  ██╗███████╗██╗  ██╗██╗  ██╗ █████╗ ██████╗ 
+ ██╔════╝██║  ██║██╔════╝██║ ██╔╝██║  ██║██╔══██╗██╔══██╗
+ ███████╗███████║█████╗  █████╔╝ ███████║███████║██████╔╝
+ ╚════██║██╔══██║██╔══╝  ██╔═██╗ ██╔══██║██╔══██║██╔══██╗
+ ███████║██║  ██║███████╗██║  ██╗██║  ██║██║  ██║██║  ██║
+ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shekhar-singh-a5b43b377">
-    <img src="https://img.shields.io/badge/LinkedIn-Shekhar%20Singh-0A66C2?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:shekharxsingh57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shekharxsingh57@gmail.com-EA4335?style=flat&logo=gmail"/>
-  </a>
-  <img src="https://img.shields.io/badge/Track-AI%20Engineering-6F42C1?style=flat"/>
-  
-</p>
+### `> Building agents that think, plan, and act`
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+MCP+Builder;Building+Autonomous+Multi-Agent+Systems;Python+%7C+FastAPI+%7C+LLM+Orchestration)](https://git.io/typing-svg)
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shekhar%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-singh-a5b43b377)
+[![Gmail](https://img.shields.io/badge/Gmail-shekharxsingh57-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharxsingh57@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/shekhar-singh?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/shekhar-singh)
 
-I'm a first-year CSE undergraduate actively building toward becoming an **Agentic AI Engineer**. I started from zero and have systematically worked through Python development, RESTful API design, Large Language Models, Generative AI, and cloud platforms — entirely through self-directed learning alongside my college curriculum.
-
-My long-term goal: build production-grade AI systems and eventually train my own LLM from scratch.
+</div>
 
 ---
 
-## What I'm Building Right Now
+## whoami
 
-- 🤖 **AI Agent Task Orchestrator** — An autonomous AI agent using LLM APIs and ReAct-style architecture that can break tasks into sub-goals and execute them using tools (web search, file I/O, API calls)
-- 🔌 **Production REST API Engine** — Industry-grade API client with session management, exponential backoff, rate-limit detection, and secure credential handling
-- 📚 **Agentic AI Engineering Roadmap** — Progressing through Python → APIs → LLM Integration → Autonomous Agents → AI Pipeline Design
+```python
+class ShekharSingh:
+    def __init__(self):
+        self.name        = "Shekhar Singh"
+        self.role        = "Agentic AI Engineer"
+        self.location    = "India 🇮🇳"
+        self.focus       = "Building autonomous AI systems that reason, plan & act"
+        self.philosophy  = "Don't just call an LLM — build an agent that uses one"
 
----
+    def current_mission(self) -> list[str]:
+        return [
+            "🧠  Mastering LangGraph for stateful agent orchestration",
+            "🔗  Building production-grade multi-agent pipelines",
+            "🛠️  Integrating MCP servers for real-world tool access",
+            "🚀  Shipping agentic apps end-to-end: FastAPI → AWS",
+        ]
 
-## Tech Stack
+    def tech_stack(self) -> dict:
+        return {
+            "brain"     : ["LangGraph", "LangChain", "CrewAI", "AutoGen"],
+            "llms"      : ["Claude", "GPT-4o", "Groq/Llama", "Gemini"],
+            "backend"   : ["FastAPI", "Python", "Pydantic", "async/await"],
+            "memory"    : ["ChromaDB", "PostgreSQL", "SQLAlchemy", "RAG"],
+            "infra"     : ["Docker", "AWS", "GitHub Actions", "LangSmith"],
+            "protocol"  : ["MCP (Model Context Protocol)", "REST", "WebSockets"],
+        }
 
-**AI & Generative AI**
-`Large Language Models (LLMs)` `Generative AI` `Agentic AI` `Prompt Engineering` `Hugging Face Transformers` `LLM API Integration` `RAG Concepts` `Google Cloud Generative AI Studio`
-
-**Programming**
-`Python (Advanced)` `JavaScript` `HTML5` `CSS3`
-
-**APIs & Backend**
-`RESTful API Design` `HTTP Protocol` `Session Management` `Exponential Backoff` `Rate Limit Handling` `Secure API Key Management`
-
-**Cloud & Infrastructure**
-`Google Cloud Platform` `AWS EC2` `AWS Placement Groups` `Cloud Infrastructure`
-
-**Developer Tools**
-`Git` `GitHub` `VS Code` `Virtual Environments` `pip` `python-dotenv`
-
-**Python Ecosystem**
-`requests` `json` `os` `datetime` `dotenv` `math` `random`
-
-**Core CS**
-`Object-Oriented Programming` `Data Structures` `Algorithm Design` `Error Handling` `File I/O`
-
----
-
-## Featured Projects
-
-### 🤖 AI Agent Task Orchestrator *(In Development)*
-> Autonomous AI agent with tool-use capabilities — LLM APIs · Python · Agentic AI
-
-- Designing a ReAct-style agent loop where an LLM reasons, selects tools, and acts autonomously
-- Integrating web search, file I/O, and REST API calls as agent tools
-- Applying prompt engineering and structured output parsing for reliable agent behaviour
-- Goal: demonstrate real-world Agentic AI pipeline design end-to-end
+me = ShekharSingh()
+print(me.current_mission())
+```
 
 ---
 
-### 🔌 Production-Grade REST API Integration Engine
-> Industry-standard API client — Python · requests · python-dotenv · JSON
+## 🗺️ Agentic AI Roadmap — In Progress
 
-- Session persistence, automatic retry with exponential backoff, rate-limit detection, timeout handling
-- Secure API key management using `.env` files — industry-standard credential hygiene
-- Modular class architecture: plug any REST endpoint without modifying core logic
-- Mirrors backend API client architecture used in large-scale e-commerce systems
+> *"Don't jump directly into agents. Build the foundation first — then agent workflows become easy."*
 
----
+```
+FOUNDATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├── ✅  Python          variables · OOP · async/await · FastAPI
+  └── ✅  Generative AI   LLMs · prompting · RAG · function calling
 
-### ✅ Smart Task Management System *(CLI)*
-> Python · JSON · File I/O · OOP · [github.com/shekhar-codes/To-Do-List](https://github.com/shekhar-codes/To-Do-List)
-
-- Persistent JSON storage, menu-driven CLI, modular function design
-- Exception handling, OOP principles, and professional GitHub documentation
-- Production-quality codebase with detailed README: installation, usage, sample output
-
----
-
-## Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Introduction to Large Language Models | Google Cloud × Simplilearn | 2025 |
-| Introduction to Generative AI Studio | Google Cloud × Simplilearn | 2025 |
-| Hugging Face Projects | Simplilearn SkillUp | 2025 |
-| Understanding Placement Groups — AWS | AWS × Simplilearn | 2025 |
-| Python Programming | Codec Technology | 2024–25 |
-| Web Development Fundamentals | Codec Technology | 2024–25 |
+AGENTIC AI ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├── 🔄  Phase 1   Introduction to Agentic AI
+  ├── 🔄  Phase 2   Async Programming & Pydantic
+  ├── ⬜  Phase 3   LangChain Agent Fundamentals
+  ├── ⬜  Phase 4   LangGraph [CORE] — Graphs · State · Workflows
+  ├── ⬜  Phase 5   Memory · Planning · Monitoring · HITL
+  ├── ⬜  Phase 6   Deployment & Production Engineering
+  ├── ⬜  Phase 7   End-to-End Real-World Agent Projects
+  ├── ⬜  Phase 8   MCP — Model Context Protocol
+  ├── ⬜  Phase 9   AI Safety & Evaluation
+  ├── ⬜  Phase 10  CrewAI — Role-Based Multi-Agent Systems
+  ├── ⬜  Phase 11  Microsoft AutoGen
+  └── ⬜  Phase 12  AI Automation with n8n
+```
 
 ---
 
-## Experience
+## 🧬 What I Build
 
-**Python Developer Intern — Codec Technology** *(Remote · 1 Month)*
-- Built Python automation scripts and backend utility modules for production tasks
-- Implemented data-handling pipelines using Python I/O and JSON modules
-- Practiced Git version control, virtual environments, and secure config management
-- **Awarded Letter of Recommendation** for technical performance
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic Systems
+```
+Agent ──▶ Plan ──▶ Tool Call ──▶ Observe
+  ▲                                 │
+  └─────────── Reflect ◀────────────┘
+```
+Multi-step reasoning agents with memory,
+tool use, and autonomous decision loops.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ LangGraph Workflows
+```
+[START] ──▶ Node A ──▶ Node B
+                ↓ conditional
+           Node C ──▶ [END]
+```
+State machines for complex agent behavior —
+sequential, parallel, and iterative flows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 MCP Integrations
+```
+Agent ◀──▶ MCP Server
+              ├── Databases
+              ├── APIs
+              ├── Files
+              └── External Tools
+```
+Connecting AI agents to the real world
+via standardized tool protocols.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Production Pipelines
+```
+Code ──▶ Docker ──▶ GitHub Actions
+                         │
+                    AWS / Render
+                         │
+                   LangSmith Monitor
+```
+End-to-end deployment with observability,
+logging, and CI/CD.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Achievements
+## 🛠️ Tech Arsenal
 
-- 🏅 **ICAT Coding Assessment** — iStudios Tech | All India Rank: **2184** | Certificate Awarded
-- 📜 Letter of Recommendation — Codec Technology (Python Developer Internship)
-- 🚀 Built production-grade Python systems with professional GitHub documentation
-- 📖 Pursuing structured Agentic AI Engineering roadmap through daily self-directed learning
+<div align="center">
+
+**Agent Frameworks**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF0080?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**LLM Providers**
+
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
+![Async](https://img.shields.io/badge/Async%2FAwait-FFD43B?style=flat-square&logo=python&logoColor=black)
+
+**Memory & Retrieval**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Stats
+## 📌 Projects (Coming Soon)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shekhar-codes&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-codes&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+| Project | Stack | Status |
+|--------|-------|--------|
+| 🤖 **Agentic Chatbot** — LangGraph + Tools + RAG + HITL + AWS | LangGraph · PostgreSQL · LangSmith · FastAPI | 🔨 Building |
+| 🧠 **ChatGPT-style Agent** — Full pipeline with memory & tools | LangGraph · ChromaDB · SQLAlchemy · FastAPI | ⬜ Planned |
+| ✈️ **TripMate AI** — Multi-agent travel planner | LangGraph · Groq · PostgreSQL · FastAPI | ⬜ Planned |
+| 🔌 **MCP Agent Hub** — Custom MCP server + client integration | MCP · LangGraph · Python | ⬜ Planned |
 
 ---
 
-<p align="center"><i>"Started from zero. Building autonomous AI systems. Long-term goal: train my own LLM."</i> 🚀</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shekhar-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## 🧠 How I Think About AI Agents
+
+```
+Most devs:    User Input ──▶ LLM ──▶ Response
+
+Me:           User Input ──▶ Agent Brain
+                                  ├── What's the goal?
+                                  ├── What tools do I have?
+                                  ├── What do I know? (memory)
+                                  ├── What's my plan?
+                                  └── Execute → Observe → Reflect → Repeat
+```
+
+> Plain LLMs answer questions.  
+> Agents **solve problems**.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+If you're building in the **Agentic AI** space — LangGraph workflows, MCP integrations,
+multi-agent systems, or production deployment — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-singh-a5b43b377)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharxsingh57@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+/* The best agent is the one that ships */
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shekhar-singh&color=00D9FF&style=flat-square&label=Profile+Views)
+
+</div>
