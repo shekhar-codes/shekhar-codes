@@ -21,69 +21,6 @@
 
 ---
 
-## 🧬 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic Systems
-```
-Agent ──▶ Plan ──▶ Tool Call ──▶ Observe
-  ▲                                 │
-  └─────────── Reflect ◀────────────┘
-```
-Multi-step reasoning agents with memory,
-tool use, and autonomous decision loops.
-
-</td>
-<td width="50%" valign="top">
-
-### 🕸️ LangGraph Workflows
-```
-[START] ──▶ Node A ──▶ Node B
-                ↓ conditional
-           Node C ──▶ [END]
-```
-State machines for complex agent behavior —
-sequential, parallel, and iterative flows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 MCP Integrations
-```
-Agent ◀──▶ MCP Server
-              ├── Databases
-              ├── APIs
-              ├── Files
-              └── External Tools
-```
-Connecting AI agents to the real world
-via standardized tool protocols.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 Production Pipelines
-```
-Code ──▶ Docker ──▶ GitHub Actions
-                         │
-                    AWS / Render
-                         │
-                   LangSmith Monitor
-```
-End-to-end deployment with observability,
-logging, and CI/CD.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -124,16 +61,6 @@ logging, and CI/CD.
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shekhar-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
@@ -147,14 +74,3 @@ multi-agent systems, or production deployment — let's talk.
 
 </div>
 
----
-
-<div align="center">
-
-```
-/* The best agent is the one that ships */
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=shekhar-singh&color=00D9FF&style=flat-square&label=Profile+Views)
-
-</div>
