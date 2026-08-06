@@ -9,76 +9,15 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `> Building agents that think, plan, and act`
+### `Building agents that think, plan, and act`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+MCP+Builder;Building+Autonomous+Multi-Agent+Systems;Python+%7C+FastAPI+%7C+LLM+Orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shekhar%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-singh-a5b43b377)
 [![Gmail](https://img.shields.io/badge/Gmail-shekharxsingh57-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharxsingh57@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/shekhar-singh?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/shekhar-singh)
+
 
 </div>
-
----
-
-## whoami
-
-```python
-class ShekharSingh:
-    def __init__(self):
-        self.name        = "Shekhar Singh"
-        self.role        = "Agentic AI Engineer"
-        self.location    = "India 🇮🇳"
-        self.focus       = "Building autonomous AI systems that reason, plan & act"
-        self.philosophy  = "Don't just call an LLM — build an agent that uses one"
-
-    def current_mission(self) -> list[str]:
-        return [
-            "🧠  Mastering LangGraph for stateful agent orchestration",
-            "🔗  Building production-grade multi-agent pipelines",
-            "🛠️  Integrating MCP servers for real-world tool access",
-            "🚀  Shipping agentic apps end-to-end: FastAPI → AWS",
-        ]
-
-    def tech_stack(self) -> dict:
-        return {
-            "brain"     : ["LangGraph", "LangChain", "CrewAI", "AutoGen"],
-            "llms"      : ["Claude", "GPT-4o", "Groq/Llama", "Gemini"],
-            "backend"   : ["FastAPI", "Python", "Pydantic", "async/await"],
-            "memory"    : ["ChromaDB", "PostgreSQL", "SQLAlchemy", "RAG"],
-            "infra"     : ["Docker", "AWS", "GitHub Actions", "LangSmith"],
-            "protocol"  : ["MCP (Model Context Protocol)", "REST", "WebSockets"],
-        }
-
-me = ShekharSingh()
-print(me.current_mission())
-```
-
----
-
-## 🗺️ Agentic AI Roadmap — In Progress
-
-> *"Don't jump directly into agents. Build the foundation first — then agent workflows become easy."*
-
-```
-FOUNDATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── ✅  Python          variables · OOP · async/await · FastAPI
-  └── ✅  Generative AI   LLMs · prompting · RAG · function calling
-
-AGENTIC AI ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── 🔄  Phase 1   Introduction to Agentic AI
-  ├── 🔄  Phase 2   Async Programming & Pydantic
-  ├── ⬜  Phase 3   LangChain Agent Fundamentals
-  ├── ⬜  Phase 4   LangGraph [CORE] — Graphs · State · Workflows
-  ├── ⬜  Phase 5   Memory · Planning · Monitoring · HITL
-  ├── ⬜  Phase 6   Deployment & Production Engineering
-  ├── ⬜  Phase 7   End-to-End Real-World Agent Projects
-  ├── ⬜  Phase 8   MCP — Model Context Protocol
-  ├── ⬜  Phase 9   AI Safety & Evaluation
-  ├── ⬜  Phase 10  CrewAI — Role-Based Multi-Agent Systems
-  ├── ⬜  Phase 11  Microsoft AutoGen
-  └── ⬜  Phase 12  AI Automation with n8n
-```
 
 ---
 
@@ -185,18 +124,6 @@ logging, and CI/CD.
 </div>
 
 ---
-
-## 📌 Projects (Coming Soon)
-
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🤖 **Agentic Chatbot** — LangGraph + Tools + RAG + HITL + AWS | LangGraph · PostgreSQL · LangSmith · FastAPI | 🔨 Building |
-| 🧠 **ChatGPT-style Agent** — Full pipeline with memory & tools | LangGraph · ChromaDB · SQLAlchemy · FastAPI | ⬜ Planned |
-| ✈️ **TripMate AI** — Multi-agent travel planner | LangGraph · Groq · PostgreSQL · FastAPI | ⬜ Planned |
-| 🔌 **MCP Agent Hub** — Custom MCP server + client integration | MCP · LangGraph · Python | ⬜ Planned |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -205,24 +132,6 @@ logging, and CI/CD.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 </div>
-
----
-
-## 🧠 How I Think About AI Agents
-
-```
-Most devs:    User Input ──▶ LLM ──▶ Response
-
-Me:           User Input ──▶ Agent Brain
-                                  ├── What's the goal?
-                                  ├── What tools do I have?
-                                  ├── What do I know? (memory)
-                                  ├── What's my plan?
-                                  └── Execute → Observe → Reflect → Repeat
-```
-
-> Plain LLMs answer questions.  
-> Agents **solve problems**.
 
 ---
 
