@@ -9,7 +9,7 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `Building agents that think, plan, and act`
+### `Building Agents That Think, Plan, and Act`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Engineer+%F0%9F%A4%96;)](https://git.io/typing-svg)
 
